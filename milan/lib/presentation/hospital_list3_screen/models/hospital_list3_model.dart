@@ -1,0 +1,1 @@
+class HospitalList3Model {}

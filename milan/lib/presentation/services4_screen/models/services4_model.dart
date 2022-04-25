@@ -1,0 +1,1 @@
+class Services4Model {}
